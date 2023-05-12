@@ -1,0 +1,1887 @@
+1682511678707	geckodriver	INFO	Listening on 127.0.0.1:62920
+1682511678775	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilelqdMxX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682511679897	Marionette	INFO	Marionette enabled
+1682511680334	Marionette	INFO	Listening on port 62936
+Read port: 62936
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62921
+1682511680534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilelqdMxX/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62921/devtools/browser/eef44952-cced-4c7a-96b5-ba6bfbc30424
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682511692096	Marionette	INFO	Stopped listening on port 62936
+1682511918587	geckodriver	INFO	Listening on 127.0.0.1:63201
+1682511919079	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileDZEByp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682511919942	Marionette	INFO	Marionette enabled
+1682511920309	Marionette	INFO	Listening on port 63207
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63207
+WebDriver BiDi listening on ws://127.0.0.1:63202
+1682511920532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileDZEByp/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63202/devtools/browser/2fb2ced5-adc5-42e7-891e-4281a9271aab
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682511934330	Marionette	INFO	Stopped listening on port 63207
+1682512596746	geckodriver	INFO	Listening on 127.0.0.1:63609
+1682512597263	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilemFjfaG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682512598030	Marionette	INFO	Marionette enabled
+1682512598668	Marionette	INFO	Listening on port 63615
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63615
+WebDriver BiDi listening on ws://127.0.0.1:63610
+1682512598828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilemFjfaG/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63610/devtools/browser/df8d336c-d5fc-4fe9-b064-72e7e3ea2003
+1682512687418	geckodriver	INFO	Listening on 127.0.0.1:63725
+1682512687896	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilesS11Fd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682512688716	Marionette	INFO	Marionette enabled
+1682512689174	Marionette	INFO	Listening on port 63732
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63732
+WebDriver BiDi listening on ws://127.0.0.1:63726
+1682512689421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilesS11Fd/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63726/devtools/browser/32c17f54-0978-4d1d-b9a2-fa3204cba534
+1682512825325	Marionette	INFO	Stopped listening on port 63615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682512829187	Marionette	INFO	Stopped listening on port 63732
+1682512871907	geckodriver	INFO	Listening on 127.0.0.1:63928
+1682512872405	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileAxODOB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682512873198	Marionette	INFO	Marionette enabled
+1682512873538	Marionette	INFO	Listening on port 63934
+Read port: 63934
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63929
+1682512873717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileAxODOB/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63929/devtools/browser/8f75de5e-13ec-405d-a09b-f5a5aeb96951
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682512887995	Marionette	INFO	Stopped listening on port 63934
+1682513250252	geckodriver	INFO	Listening on 127.0.0.1:64322
+1682513250758	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileAyuSQy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682513251482	Marionette	INFO	Marionette enabled
+1682513251860	Marionette	INFO	Listening on port 64328
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64328
+WebDriver BiDi listening on ws://127.0.0.1:64323
+1682513252037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileAyuSQy/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64323/devtools/browser/8812eba2-f428-441c-b940-1348e1f1df50
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682513262428	Marionette	INFO	Stopped listening on port 64328
+1682513359020	geckodriver	INFO	Listening on 127.0.0.1:64527
+1682513359531	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilelFhsB3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682513360614	Marionette	INFO	Marionette enabled
+1682513361108	Marionette	INFO	Listening on port 64544
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64544
+WebDriver BiDi listening on ws://127.0.0.1:64528
+1682513361384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilelFhsB3/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64528/devtools/browser/fd5770b4-776a-4a49-9f6f-ef53a226b0e9
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682513373143	Marionette	INFO	Stopped listening on port 64544
+1682513425365	geckodriver	INFO	Listening on 127.0.0.1:64681
+1682513425876	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilebzJDVB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682513427356	Marionette	INFO	Marionette enabled
+1682513428189	Marionette	INFO	Listening on port 64698
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64698
+WebDriver BiDi listening on ws://127.0.0.1:64682
+1682513428369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilebzJDVB/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64682/devtools/browser/8b049335-2b90-442b-9e5e-0e4dc28d5236
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682513439683	Marionette	INFO	Stopped listening on port 64698
+1682513510124	geckodriver	INFO	Listening on 127.0.0.1:64877
+1682513510635	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileTctBV0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682513511431	Marionette	INFO	Marionette enabled
+1682513511742	Marionette	INFO	Listening on port 64883
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64883
+WebDriver BiDi listening on ws://127.0.0.1:64878
+1682513511890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileTctBV0/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64878/devtools/browser/4b9baf44-ffb8-4222-a71e-0797d3ef7889
+1682513514583	Marionette	INFO	Stopped listening on port 64883
+1682513785447	geckodriver	INFO	Listening on 127.0.0.1:65232
+1682513785955	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilem4XpWO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682513786807	Marionette	INFO	Marionette enabled
+1682513787148	Marionette	INFO	Listening on port 65239
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 65239
+WebDriver BiDi listening on ws://127.0.0.1:65233
+1682513787339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilem4XpWO/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:65233/devtools/browser/41850a07-3eba-4545-b9dd-a01275bdd53d
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7bdefc713b021bc8 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682513802681	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1682513807173	Marionette	INFO	Stopped listening on port 65239
+1682513964584	geckodriver	INFO	Listening on 127.0.0.1:65469
+1682513965094	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileCmKZet"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682513966516	Marionette	INFO	Marionette enabled
+1682513967198	Marionette	INFO	Listening on port 65488
+Read port: 65488
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:65470
+1682513967440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileCmKZet/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:65470/devtools/browser/556fadd0-26bf-4168-b458-50a3b136649e
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7bdf00dbaeea1ba4 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-e73bc2be83.js, line 8: unreachable code after return statement
+JavaScript error: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/react_vendor_app-720a76af5b.js, line 82: Error: Request aborted
+JavaScript error: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/react_vendor_app-720a76af5b.js, line 82: Error: Request aborted
+JavaScript error: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/react_vendor_app-720a76af5b.js, line 82: Error: Request aborted
+JavaScript error: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/react_vendor_app-720a76af5b.js, line 82: Error: Request aborted
+1682513993347	Marionette	INFO	Stopped listening on port 65488
+1682514351398	geckodriver	INFO	Listening on 127.0.0.1:49533
+1682514351907	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilexcn1ny"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682514353019	Marionette	INFO	Marionette enabled
+1682514353409	Marionette	INFO	Listening on port 49550
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49550
+WebDriver BiDi listening on ws://127.0.0.1:49534
+1682514353627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilexcn1ny/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49534/devtools/browser/38f6d2a4-0ccc-4541-969c-7219186d5f09
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7bdf0a4659298ae2 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-e73bc2be83.js, line 8: unreachable code after return statement
+JavaScript error: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/react_vendor_app-720a76af5b.js, line 82: Error: Request aborted
+JavaScript error: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/react_vendor_app-720a76af5b.js, line 82: Error: Request aborted
+JavaScript error: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/react_vendor_app-720a76af5b.js, line 82: Error: Request aborted
+JavaScript error: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/react_vendor_app-720a76af5b.js, line 82: Error: Request aborted
+1682514375651	Marionette	INFO	Stopped listening on port 49550
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1682514434575	geckodriver	INFO	Listening on 127.0.0.1:49768
+1682514435089	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileuAx7yQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682514436204	Marionette	INFO	Marionette enabled
+1682514436591	Marionette	INFO	Listening on port 49787
+Read port: 49787
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49769
+1682514436869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileuAx7yQ/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49769/devtools/browser/0c6a82f6-b392-402e-b4e5-285986866aa5
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7bdf0c527a568e8c line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682514453785	Marionette	INFO	Stopped listening on port 49787
+1682514538849	geckodriver	INFO	Listening on 127.0.0.1:49926
+1682514539358	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileouAi3y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682514540469	Marionette	INFO	Marionette enabled
+1682514540756	Marionette	INFO	Listening on port 49937
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49937
+WebDriver BiDi listening on ws://127.0.0.1:49928
+1682514540967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileouAi3y/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49928/devtools/browser/87843dbc-ecf7-46a0-91a2-fbe6dd371373
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682514555494	Marionette	INFO	Stopped listening on port 49937
+1682514685378	geckodriver	INFO	Listening on 127.0.0.1:50155
+1682514685883	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileBudLyx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682514687407	Marionette	INFO	Marionette enabled
+1682514688014	Marionette	INFO	Listening on port 50174
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50174
+WebDriver BiDi listening on ws://127.0.0.1:50156
+1682514688247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileBudLyx/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50156/devtools/browser/e9f66280-51a8-4f80-a4ac-657c63687707
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682514706249	Marionette	INFO	Stopped listening on port 50174
+1682576179492	geckodriver	INFO	Listening on 127.0.0.1:54590
+1682576180003	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilemfJuFE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682576181232	Marionette	INFO	Marionette enabled
+1682576182068	Marionette	INFO	Listening on port 54611
+Read port: 54611
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54591
+1682576182366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilemfJuFE/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54591/devtools/browser/05ad0610-157d-4318-b92d-0f5ec6ab3521
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1682576197529	Marionette	INFO	Stopped listening on port 54611
+1682576469899	geckodriver	INFO	Listening on 127.0.0.1:54917
+1682576470411	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilempXjKQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682576471560	Marionette	INFO	Marionette enabled
+1682576472194	Marionette	INFO	Listening on port 54935
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54935
+WebDriver BiDi listening on ws://127.0.0.1:54918
+1682576472418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilempXjKQ/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54918/devtools/browser/86a97c36-f166-4418-8d3f-69223e533409
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682576480724	Marionette	INFO	Stopped listening on port 54935
+1682576534380	geckodriver	INFO	Listening on 127.0.0.1:55300
+1682576534896	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile9pVfRy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682576535740	Marionette	INFO	Marionette enabled
+1682576536102	Marionette	INFO	Listening on port 55306
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55306
+WebDriver BiDi listening on ws://127.0.0.1:55301
+1682576536270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile9pVfRy/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55301/devtools/browser/95d1e587-3100-4b7c-b6b2-d142e2385e63
+1682576558927	Marionette	INFO	Stopped listening on port 55306
+1682578141393	geckodriver	INFO	Listening on 127.0.0.1:55640
+1682578141905	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileld8hSj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682578143081	Marionette	INFO	Marionette enabled
+1682578143399	Marionette	INFO	Listening on port 55657
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55657
+WebDriver BiDi listening on ws://127.0.0.1:55642
+1682578143567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileld8hSj/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55642/devtools/browser/f089197d-1f20-413e-addd-c152a24e4e6a
+1682578145683	Marionette	INFO	Stopped listening on port 55657
+1682578852795	geckodriver	INFO	Listening on 127.0.0.1:55796
+1682578853312	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile1VMcjh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682578854317	Marionette	INFO	Marionette enabled
+1682578854692	Marionette	INFO	Listening on port 55823
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55823
+WebDriver BiDi listening on ws://127.0.0.1:55797
+1682578854891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile1VMcjh/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55797/devtools/browser/27330bea-6741-411e-8b38-a64323189573
+1682578857873	Marionette	INFO	Stopped listening on port 55823
+1682580099386	geckodriver	INFO	Listening on 127.0.0.1:56152
+1682580099899	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilejMzs8C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682580100911	Marionette	INFO	Marionette enabled
+1682580101224	Marionette	INFO	Listening on port 56172
+Read port: 56172
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56153
+1682580101392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilejMzs8C/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56153/devtools/browser/706b36df-5dc2-4f48-bdf6-eec5350cda83
+1682580102939	Marionette	INFO	Stopped listening on port 56172
+1682580574813	geckodriver	INFO	Listening on 127.0.0.1:56278
+1682580575322	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilexC220D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682580576315	Marionette	INFO	Marionette enabled
+1682580576684	Marionette	INFO	Listening on port 56297
+Read port: 56297
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56279
+1682580576848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilexC220D/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56279/devtools/browser/0cdab70a-cee3-46f8-abbc-a263ffb6af7c
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682580585308	Marionette	INFO	Stopped listening on port 56297
+1682580586881	geckodriver	INFO	Listening on 127.0.0.1:56457
+1682580587387	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileUXTIgG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682580588230	Marionette	INFO	Marionette enabled
+1682580588877	Marionette	INFO	Listening on port 56486
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56486
+WebDriver BiDi listening on ws://127.0.0.1:56458
+1682580589309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileUXTIgG/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56458/devtools/browser/2a5188c1-4fe8-43c5-8050-7725338f88d2
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682580595413	Marionette	INFO	Stopped listening on port 56486
+1682580720696	geckodriver	INFO	Listening on 127.0.0.1:56787
+1682580720696	geckodriver	INFO	Listening on 127.0.0.1:56784
+1682580721213	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile7Y7WQp"
+1682580721213	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileoW75lk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682580722375	Marionette	INFO	Marionette enabled
+1682580722375	Marionette	INFO	Marionette enabled
+1682580722785	Marionette	INFO	Listening on port 56815
+1682580722790	Marionette	INFO	Listening on port 56816
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56816
+Read port: 56815
+WebDriver BiDi listening on ws://127.0.0.1:56785
+WebDriver BiDi listening on ws://127.0.0.1:56788
+1682580722964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1682580722968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile7Y7WQp/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileoW75lk/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56785/devtools/browser/61b746f5-6649-465b-9a78-b2e3d435ec8b
+DevTools listening on ws://127.0.0.1:56788/devtools/browser/fed89a8b-9075-4ebd-a616-03f13fefcd05
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682580734618	Marionette	INFO	Stopped listening on port 56816
+1682580734810	Marionette	INFO	Stopped listening on port 56815
+1682580878113	geckodriver	INFO	Listening on 127.0.0.1:57281
+1682580878113	geckodriver	INFO	Listening on 127.0.0.1:57282
+1682580878620	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileLDoT8U"
+1682580878620	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileh01Nn3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682580879719	Marionette	INFO	Marionette enabled
+1682580879719	Marionette	INFO	Marionette enabled
+1682580880976	Marionette	INFO	Listening on port 57312
+1682580881022	Marionette	INFO	Listening on port 57313
+Read port: 57312
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 57313
+WebDriver BiDi listening on ws://127.0.0.1:57284
+WebDriver BiDi listening on ws://127.0.0.1:57283
+1682580881493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1682580881493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileLDoT8U/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileh01Nn3/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57283/devtools/browser/87d2b7de-7f86-4156-b682-51284d725779
+DevTools listening on ws://127.0.0.1:57284/devtools/browser/2798153a-0e9f-4ec2-a4d6-a774ca4c1dd9
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682580895882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1682580896075	Marionette	INFO	Stopped listening on port 57312
+1682580896167	Marionette	INFO	Stopped listening on port 57313
+1682581118869	geckodriver	INFO	Listening on 127.0.0.1:57750
+1682581118869	geckodriver	INFO	Listening on 127.0.0.1:57752
+1682581119379	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileD61PJR"
+1682581119379	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilesJqBKD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682581120367	Marionette	INFO	Marionette enabled
+1682581120367	Marionette	INFO	Marionette enabled
+1682581120789	Marionette	INFO	Listening on port 57770
+1682581120796	Marionette	INFO	Listening on port 57771
+Read port: 57771
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 57770
+WebDriver BiDi listening on ws://127.0.0.1:57751
+WebDriver BiDi listening on ws://127.0.0.1:57753
+1682581120944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1682581120968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilesJqBKD/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileD61PJR/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57753/devtools/browser/feeb41dd-27f3-430a-932c-641f4d319ba4
+DevTools listening on ws://127.0.0.1:57751/devtools/browser/73d191d3-d9e4-4851-927a-edb80ef17b8c
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be5685cdf511bda line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be5685c7f458e81 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1682581132774	Marionette	INFO	Stopped listening on port 57771
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682581133717	Marionette	INFO	Stopped listening on port 57770
+1682581376141	geckodriver	INFO	Listening on 127.0.0.1:58259
+1682581376651	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile9vUINf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682581377320	Marionette	INFO	Marionette enabled
+1682581377614	Marionette	INFO	Listening on port 58265
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 58265
+WebDriver BiDi listening on ws://127.0.0.1:58260
+1682581377902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile9vUINf/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58260/devtools/browser/fbafe218-0581-4d53-9936-ce290f730248
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682581383534	Marionette	INFO	Stopped listening on port 58265
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1682581384351	geckodriver	INFO	Listening on 127.0.0.1:58377
+1682581384867	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileJmEmDu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682581385430	Marionette	INFO	Marionette enabled
+1682581385624	Marionette	INFO	Listening on port 58383
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 58383
+WebDriver BiDi listening on ws://127.0.0.1:58378
+1682581385872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileJmEmDu/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58378/devtools/browser/5f9524ee-9ca0-4acb-9cb5-1132dc7df745
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be56ecebced1c55 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682581394374	Marionette	INFO	Stopped listening on port 58383
+1682582697505	geckodriver	INFO	Listening on 127.0.0.1:59135
+1682582698017	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileuECLIq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682582698873	Marionette	INFO	Marionette enabled
+1682582699308	Marionette	INFO	Listening on port 59142
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59142
+WebDriver BiDi listening on ws://127.0.0.1:59136
+1682582699484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileuECLIq/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59136/devtools/browser/07e5e0d8-5ff8-444b-87ca-27a319a90fc0
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682582705065	Marionette	INFO	Stopped listening on port 59142
+1682582705802	geckodriver	INFO	Listening on 127.0.0.1:59245
+1682582706314	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileHZoEgg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682582706725	Marionette	INFO	Marionette enabled
+1682582706920	Marionette	INFO	Listening on port 59251
+Read port: 59251
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59246
+1682582707121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileHZoEgg/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59246/devtools/browser/ba31ed73-244a-43de-a9c8-643dc883c335
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682582712051	Marionette	INFO	Stopped listening on port 59251
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1682583030926	geckodriver	INFO	Listening on 127.0.0.1:59541
+1682583031445	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilesvuMJ9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682583032345	Marionette	INFO	Marionette enabled
+1682583032744	Marionette	INFO	Listening on port 59547
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59547
+WebDriver BiDi listening on ws://127.0.0.1:59542
+1682583032989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilesvuMJ9/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59542/devtools/browser/a9fe2aae-fe7b-40f2-afdc-bd51347a9c6a
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682583038022	Marionette	INFO	Stopped listening on port 59547
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1682583038855	geckodriver	INFO	Listening on 127.0.0.1:59654
+1682583039356	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileBjiWiB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682583039930	Marionette	INFO	Marionette enabled
+1682583040044	Marionette	INFO	Listening on port 59660
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59660
+WebDriver BiDi listening on ws://127.0.0.1:59655
+1682583040234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileBjiWiB/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59655/devtools/browser/06d3ad26-6d74-4eba-93bc-76dae2f9e45a
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682583044577	Marionette	INFO	Stopped listening on port 59660
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1682583129462	geckodriver	INFO	Listening on 127.0.0.1:59948
+1682583129972	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile9VOCRa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682583130855	Marionette	INFO	Marionette enabled
+1682583131281	Marionette	INFO	Listening on port 59954
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59954
+WebDriver BiDi listening on ws://127.0.0.1:59949
+1682583131475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile9VOCRa/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59949/devtools/browser/5feda7fe-0cdd-4caf-8c7b-015f09aec2db
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be5996d7af78e87 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682583143197	Marionette	INFO	Stopped listening on port 59954
+1682583144061	geckodriver	INFO	Listening on 127.0.0.1:60048
+1682583144577	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileptmcGI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682583145228	Marionette	INFO	Marionette enabled
+1682583145560	Marionette	INFO	Listening on port 60054
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:60049
+Read port: 60054
+1682583145815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileptmcGI/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60049/devtools/browser/d8582fc8-2c96-4f13-ac6d-18f0f5007e09
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be599c3bf571bc2 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682583155887	Marionette	INFO	Stopped listening on port 60054
+1682583312535	geckodriver	INFO	Listening on 127.0.0.1:60169
+1682583312535	geckodriver	INFO	Listening on 127.0.0.1:60172
+1682583313043	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileWdtUFM"
+1682583313043	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile1537dR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682583314065	Marionette	INFO	Marionette enabled
+1682583314065	Marionette	INFO	Marionette enabled
+1682583314439	Marionette	INFO	Listening on port 60191
+1682583314444	Marionette	INFO	Listening on port 60192
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60192
+Read port: 60191
+WebDriver BiDi listening on ws://127.0.0.1:60174
+WebDriver BiDi listening on ws://127.0.0.1:60170
+1682583314600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1682583314600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileWdtUFM/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile1537dR/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60174/devtools/browser/9e85d162-84cc-49c9-8447-bfc04e8c4e2f
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60170/devtools/browser/9d007586-53f6-4d90-a797-a5b0562bc5a7
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be59de5e9db8e7b line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be59de72cad1c67 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682583329861	Marionette	INFO	Stopped listening on port 60191
+1682583329954	Marionette	INFO	Stopped listening on port 60192
+1682583677760	geckodriver	INFO	Listening on 127.0.0.1:60785
+1682583678282	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile6ridVG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682583679423	Marionette	INFO	Marionette enabled
+1682583679728	Marionette	INFO	Listening on port 60793
+Read port: 60793
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:60786
+1682583679949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile6ridVG/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60786/devtools/browser/6c0d9357-e4b6-4bad-b654-adab5a4a6d37
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be5a6d5ec4e1c5b line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682583691581	Marionette	INFO	Stopped listening on port 60793
+1682583692444	geckodriver	INFO	Listening on 127.0.0.1:60896
+1682583692955	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilexjAKTp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682583693631	Marionette	INFO	Marionette enabled
+1682583693927	Marionette	INFO	Listening on port 60903
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60903
+WebDriver BiDi listening on ws://127.0.0.1:60897
+1682583694142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilexjAKTp/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60897/devtools/browser/ec5bf28d-beaa-44e8-9011-a919833044ad
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682583699543	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682583702102	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1682583702311	Marionette	INFO	Stopped listening on port 60903
+1682595439663	geckodriver	INFO	Listening on 127.0.0.1:62803
+1682595440174	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileld8eVU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682595440992	Marionette	INFO	Marionette enabled
+1682595441413	Marionette	INFO	Listening on port 62809
+Read port: 62809
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62804
+1682595441615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileld8eVU/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62804/devtools/browser/ec2a1f5e-e311-4cea-8bc3-9b1cdca50f9b
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682595449228	Marionette	INFO	Stopped listening on port 62809
+1682595449973	geckodriver	INFO	Listening on 127.0.0.1:62926
+1682595450480	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile0HFis5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682595451072	Marionette	INFO	Marionette enabled
+1682595451346	Marionette	INFO	Listening on port 62932
+Read port: 62932
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62927
+1682595451466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile0HFis5/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62927/devtools/browser/57c7a245-6da1-4013-b04d-139d31cc10cf
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682595458192	Marionette	INFO	Stopped listening on port 62932
+1682596424414	geckodriver	INFO	Listening on 127.0.0.1:49888
+1682596424917	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileyx5mrX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682596425918	Marionette	INFO	Marionette enabled
+1682596426379	Marionette	INFO	Listening on port 49904
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49904
+WebDriver BiDi listening on ws://127.0.0.1:49889
+1682596426602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileyx5mrX/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49889/devtools/browser/01a77673-d62d-49c9-9ead-527c310c4550
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1682596435574	Marionette	INFO	Stopped listening on port 49904
+1682596436482	geckodriver	INFO	Listening on 127.0.0.1:50072
+1682596436988	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile88NjGi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682596437629	Marionette	INFO	Marionette enabled
+1682596437908	Marionette	INFO	Listening on port 50088
+Read port: 50088
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:50073
+1682596438056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile88NjGi/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50073/devtools/browser/94725535-7776-42c7-bbec-689d3be9b2e2
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1682596446227	Marionette	INFO	Stopped listening on port 50088
+1682596592358	geckodriver	INFO	Listening on 127.0.0.1:51130
+1682596592865	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilexmT8uk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682596593948	Marionette	INFO	Marionette enabled
+1682596594289	Marionette	INFO	Listening on port 51151
+Read port: 51151
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:51131
+1682596594483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilexmT8uk/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51131/devtools/browser/d20bd88b-a7a2-4c3d-83dd-dd5ce3bf08bc
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1682596603149	Marionette	INFO	Stopped listening on port 51151
+1682596604042	geckodriver	INFO	Listening on 127.0.0.1:51348
+1682596604554	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileuOjE1b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682596605027	Marionette	INFO	Marionette enabled
+1682596605271	Marionette	INFO	Listening on port 51366
+Read port: 51366
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:51349
+1682596605363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileuOjE1b/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51349/devtools/browser/f7bdbadb-fb4d-43c3-8502-4d6688248474
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682596610837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1682596613859	Marionette	INFO	Stopped listening on port 51366
+1682600015738	geckodriver	INFO	Listening on 127.0.0.1:51939
+1682600016244	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile5EL25L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682600017111	Marionette	INFO	Marionette enabled
+1682600017509	Marionette	INFO	Listening on port 51958
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 51958
+WebDriver BiDi listening on ws://127.0.0.1:51940
+1682600017705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile5EL25L/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51940/devtools/browser/a78eabac-8e48-4bbb-bdff-fe8b4367e349
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-e6a7a1eefb.js, line 8: unreachable code after return statement
+1682600033538	Marionette	INFO	Stopped listening on port 51958
+1682600034437	geckodriver	INFO	Listening on 127.0.0.1:52163
+1682600034950	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilevnktrl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682600035612	Marionette	INFO	Marionette enabled
+1682600035899	Marionette	INFO	Listening on port 52180
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52180
+WebDriver BiDi listening on ws://127.0.0.1:52164
+1682600036073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilevnktrl/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52164/devtools/browser/713cf5cc-e6e8-433d-9c0a-726b53d62524
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682600054125	Marionette	INFO	Stopped listening on port 52180
+1682601112278	geckodriver	INFO	Listening on 127.0.0.1:56870
+1682601112672	geckodriver	INFO	Listening on 127.0.0.1:56866
+1682601112687	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilehgBKxD"
+1682601112783	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilet9LNvH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682601113801	Marionette	INFO	Marionette enabled
+1682601113801	Marionette	INFO	Marionette enabled
+1682601114154	Marionette	INFO	Listening on port 56913
+1682601114162	Marionette	INFO	Listening on port 56914
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56914
+Read port: 56913
+WebDriver BiDi listening on ws://127.0.0.1:56871
+WebDriver BiDi listening on ws://127.0.0.1:56868
+1682601114359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1682601114435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilehgBKxD/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilet9LNvH/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56868/devtools/browser/76fe20b3-e419-496e-8108-0eaaeb2215d1
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56871/devtools/browser/209eea93-e535-462b-89b7-fcce367a596c
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-e6a7a1eefb.js, line 8: unreachable code after return statement
+JavaScript warning: https://realtime.getbeamer.com/socket.io/socket.io.min.js, line 0: https://realtime.getbeamer.com/socket.io/socket.io.min.js is being assigned a //# sourceMappingURL, but already has one
+1682601143900	Marionette	INFO	Stopped listening on port 56913
+1682601144397	Marionette	INFO	Stopped listening on port 56914
+1682601402294	geckodriver	INFO	Listening on 127.0.0.1:58726
+1682601402807	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileBVEeNo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682601403729	Marionette	INFO	Marionette enabled
+1682601404072	Marionette	INFO	Listening on port 58740
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 58740
+WebDriver BiDi listening on ws://127.0.0.1:58727
+1682601404293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileBVEeNo/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58727/devtools/browser/5eccc556-ba55-49a1-b829-2b71271b2d64
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1682601647653	geckodriver	INFO	Listening on 127.0.0.1:60805
+1682601648158	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilehzoe8m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682601649097	Marionette	INFO	Marionette enabled
+1682601649529	Marionette	INFO	Listening on port 60834
+Read port: 60834
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:60806
+1682601649731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilehzoe8m/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60806/devtools/browser/1a8dd94e-13b3-4737-a19d-964b49a548c2
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be75d86ddfc1b73 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682601661292	Marionette	INFO	Stopped listening on port 60834
+1682601662256	geckodriver	INFO	Listening on 127.0.0.1:61032
+1682601662764	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileNqCzMq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682601663482	Marionette	INFO	Marionette enabled
+1682601664124	Marionette	INFO	Listening on port 61057
+Read port: 61057
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61033
+1682601664444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileNqCzMq/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61033/devtools/browser/f9de39b8-7e69-4860-8a03-5f779076f13a
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be75de258998adf line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682601674798	Marionette	INFO	Stopped listening on port 61057
+1682602039356	geckodriver	INFO	Listening on 127.0.0.1:64727
+1682602039832	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileCbDVNQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682602040841	Marionette	INFO	Marionette enabled
+1682602041198	Marionette	INFO	Listening on port 64764
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64764
+WebDriver BiDi listening on ws://127.0.0.1:64728
+1682602041406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileCbDVNQ/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64728/devtools/browser/76d761e6-af51-4992-bf10-d67932e704dc
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682602047297	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682602053125	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-e6a7a1eefb.js, line 8: unreachable code after return statement
+1682602059869	Marionette	INFO	Stopped listening on port 64764
+1682602060666	geckodriver	INFO	Listening on 127.0.0.1:65056
+1682602061180	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileOx4omx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682602061869	Marionette	INFO	Marionette enabled
+1682602062172	Marionette	INFO	Listening on port 65081
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 65081
+WebDriver BiDi listening on ws://127.0.0.1:65057
+1682602062341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileOx4omx/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:65057/devtools/browser/a1a8da66-1ec8-4b2e-951d-1b89034403cc
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682602087811	Marionette	INFO	Stopped listening on port 65081
+1682602485540	geckodriver	INFO	Listening on 127.0.0.1:52873
+1682602486049	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilekUTgIH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682602486974	Marionette	INFO	Marionette enabled
+1682602487441	Marionette	INFO	Listening on port 52903
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52903
+WebDriver BiDi listening on ws://127.0.0.1:52874
+1682602487647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilekUTgIH/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52874/devtools/browser/9ee14328-38dc-4050-84e0-10f7fcb885ef
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682602494095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682602500453	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-0f91b8d4b9.js, line 8: unreachable code after return statement
+1682602508602	Marionette	INFO	Stopped listening on port 52903
+1682602510223	geckodriver	INFO	Listening on 127.0.0.1:53213
+1682602510727	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilegeFNVB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682602511191	Marionette	INFO	Marionette enabled
+1682602511862	Marionette	INFO	Listening on port 53243
+Read port: 53243
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53214
+1682602512018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilegeFNVB/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53214/devtools/browser/cae50572-df52-43d2-b9d9-58442adab960
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682602518205	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1682602539332	Marionette	INFO	Stopped listening on port 53243
+1682605177425	geckodriver	INFO	Listening on 127.0.0.1:62168
+1682605177933	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileyPaKbV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682605178753	Marionette	INFO	Marionette enabled
+1682605179265	Marionette	INFO	Listening on port 62202
+Read port: 62202
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62169
+1682605179482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileyPaKbV/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62169/devtools/browser/1a56127e-cc4c-42ed-bb02-a5391119169a
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682605204545	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-0f91b8d4b9.js, line 8: unreachable code after return statement
+1682605220485	Marionette	INFO	Stopped listening on port 62202
+1682605221846	geckodriver	INFO	Listening on 127.0.0.1:62718
+1682605222358	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileRwlr9M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682605223093	Marionette	INFO	Marionette enabled
+1682605223421	Marionette	INFO	Listening on port 62747
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62747
+WebDriver BiDi listening on ws://127.0.0.1:62719
+1682605223595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileRwlr9M/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62719/devtools/browser/efdfa200-6842-4059-832d-6725f7a907ac
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682605229892	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1682605250555	Marionette	INFO	Stopped listening on port 62747
+1682606264189	geckodriver	INFO	Listening on 127.0.0.1:56680
+1682606264681	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilernwELP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682606266263	Marionette	INFO	Marionette enabled
+1682606267073	Marionette	INFO	Listening on port 56737
+Read port: 56737
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56681
+1682606267476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilernwELP/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56681/devtools/browser/5e331fac-64eb-4a91-aa98-824ae6dbe184
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682606286947	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-0f91b8d4b9.js, line 8: unreachable code after return statement
+JavaScript warning: https://realtime.getbeamer.com/socket.io/socket.io.min.js, line 0: https://realtime.getbeamer.com/socket.io/socket.io.min.js is being assigned a //# sourceMappingURL, but already has one
+1682606305163	Marionette	INFO	Stopped listening on port 56737
+1682606306238	geckodriver	INFO	Listening on 127.0.0.1:57289
+1682606306754	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile8D2a1y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682606307714	Marionette	INFO	Marionette enabled
+1682606308177	Marionette	INFO	Listening on port 57321
+Read port: 57321
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57290
+1682606308431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile8D2a1y/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57290/devtools/browser/c75286ac-c030-4994-a6e4-7f9fdbae577a
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682606315161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1682606335631	Marionette	INFO	Stopped listening on port 57321
+1682607767871	geckodriver	INFO	Listening on 127.0.0.1:55920
+1682607768373	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile5RJPs6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682607769938	Marionette	INFO	Marionette enabled
+1682607770454	Marionette	INFO	Listening on port 55962
+Read port: 55962
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55921
+1682607770736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile5RJPs6/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55921/devtools/browser/bbf10f6a-930d-4744-b9e7-2b2163fd5353
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682607786107	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-0f91b8d4b9.js, line 8: unreachable code after return statement
+JavaScript warning: https://realtime.getbeamer.com/socket.io/socket.io.min.js, line 0: https://realtime.getbeamer.com/socket.io/socket.io.min.js is being assigned a //# sourceMappingURL, but already has one
+1682607805374	Marionette	INFO	Stopped listening on port 55962
+1682607806373	geckodriver	INFO	Listening on 127.0.0.1:56495
+1682607806892	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilewCRy8N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682607807296	Marionette	INFO	Marionette enabled
+1682607807553	Marionette	INFO	Listening on port 56517
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56517
+WebDriver BiDi listening on ws://127.0.0.1:56496
+1682607807995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilewCRy8N/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56496/devtools/browser/643a2cfe-0be7-4507-b106-152f9fa00409
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682607842838	Marionette	INFO	Stopped listening on port 56517
+1682608088498	geckodriver	INFO	Listening on 127.0.0.1:59578
+1682608089002	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilecK8EBC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682608089860	Marionette	INFO	Marionette enabled
+1682608090235	Marionette	INFO	Listening on port 59609
+Read port: 59609
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59579
+1682608090438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilecK8EBC/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59579/devtools/browser/f54821ac-ef7f-4a27-a987-70e621346c70
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682608102567	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-0f91b8d4b9.js, line 8: unreachable code after return statement
+1682608110076	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1682608110622	Marionette	INFO	Stopped listening on port 59609
+1682608111547	geckodriver	INFO	Listening on 127.0.0.1:59929
+1682608112062	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilej6p1UG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682608112786	Marionette	INFO	Marionette enabled
+1682608113105	Marionette	INFO	Listening on port 59954
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59954
+WebDriver BiDi listening on ws://127.0.0.1:59930
+1682608113303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilej6p1UG/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59930/devtools/browser/cc801519-f640-411a-a473-74227674c2f6
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682608118860	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1682608139308	Marionette	INFO	Stopped listening on port 59954
+1682608609150	geckodriver	INFO	Listening on 127.0.0.1:64577
+1682608609664	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileBsC6LR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682608610611	Marionette	INFO	Marionette enabled
+1682608610975	Marionette	INFO	Listening on port 64613
+Read port: 64613
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64578
+1682608611153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileBsC6LR/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64578/devtools/browser/e2732b68-5fe2-4aa1-96a6-5453dc2b3f63
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682608622871	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-0f91b8d4b9.js, line 8: unreachable code after return statement
+1682608630519	Marionette	INFO	Stopped listening on port 64613
+1682608631603	geckodriver	INFO	Listening on 127.0.0.1:64924
+1682608632125	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilePI0LKH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682608633029	Marionette	INFO	Marionette enabled
+1682608633643	Marionette	INFO	Listening on port 64957
+Read port: 64957
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64925
+1682608633894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilePI0LKH/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64925/devtools/browser/bd30c4a4-1c04-42dc-8c30-548bf58e489e
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=7be8080f0fec8adc line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1682608644406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1682608664637	Marionette	INFO	Stopped listening on port 64957
+1682773433266	geckodriver	INFO	Listening on 127.0.0.1:64094
+1682773433781	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile0Tks6M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682773435019	Marionette	INFO	Marionette enabled
+1682773435797	Marionette	INFO	Listening on port 64119
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64119
+WebDriver BiDi listening on ws://127.0.0.1:64095
+1682773436042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile0Tks6M/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64095/devtools/browser/71574d1c-a90b-437e-83fc-901e6091c1e0
+1682774389375	geckodriver	INFO	Listening on 127.0.0.1:52954
+1682774389886	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilesOjMwu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682774391245	Marionette	INFO	Marionette enabled
+1682774391671	Marionette	INFO	Listening on port 52975
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52975
+WebDriver BiDi listening on ws://127.0.0.1:52955
+1682774391923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilesOjMwu/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52955/devtools/browser/b2a5db97-b5b6-4504-b107-244e8f11aec6
+1682776260248	Marionette	INFO	Stopped listening on port 52975
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682776262846	Marionette	INFO	Stopped listening on port 64119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1683378583163	geckodriver	INFO	Listening on 127.0.0.1:64612
+1683378583740	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileD60F8A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683378585060	Marionette	INFO	Marionette enabled
+1683378585416	Marionette	INFO	Listening on port 64620
+Read port: 64620
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64613
+1683378585596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileD60F8A/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64613/devtools/browser/c65f35eb-fca2-4146-a2db-c8d768fa288f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1683378596775	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://d2ogrdw2mh0rsl.cloudfront.net/production/assets/newlive_livejs-857afafc9b.js, line 8: unreachable code after return statement
+1683378602518	Marionette	INFO	Stopped listening on port 64620
+1683378602983	geckodriver	INFO	Listening on 127.0.0.1:64749
+1683378603497	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileLEFwtG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683378604593	Marionette	INFO	Marionette enabled
+1683378605016	Marionette	INFO	Listening on port 64757
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64757
+WebDriver BiDi listening on ws://127.0.0.1:64750
+1683378605166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileLEFwtG/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64750/devtools/browser/dc0ff551-54c9-479d-b4fe-43f4d6e56e64
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1683378629786	Marionette	INFO	Stopped listening on port 64757
+1683379953209	geckodriver	INFO	Listening on 127.0.0.1:65425
+1683379953450	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilenRYUBY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683379954912	Marionette	INFO	Marionette enabled
+1683379955269	Marionette	INFO	Listening on port 65433
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 65433
+WebDriver BiDi listening on ws://127.0.0.1:65426
+1683379955468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilenRYUBY/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:65426/devtools/browser/3a67df01-e4b1-4342-a8e8-6a1f99aed870
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683379964994	Marionette	INFO	Stopped listening on port 65433
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1683379965544	geckodriver	INFO	Listening on 127.0.0.1:49188
+1683379966089	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileKrGZtz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683379966720	Marionette	INFO	Marionette enabled
+1683379966947	Marionette	INFO	Listening on port 49198
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49189
+Read port: 49198
+1683379967162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileKrGZtz/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49189/devtools/browser/f92ea75c-3f54-45c8-b9df-8d23bb5f8e4b
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683379974012	Marionette	INFO	Stopped listening on port 49198
+1683387293828	geckodriver	INFO	Listening on 127.0.0.1:55422
+1683387293828	geckodriver	INFO	Listening on 127.0.0.1:55420
+1683387294354	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileKqdFCm"
+1683387294354	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileGJ8E4S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683387296410	Marionette	INFO	Marionette enabled
+1683387296410	Marionette	INFO	Marionette enabled
+1683387297291	Marionette	INFO	Listening on port 55466
+1683387297291	Marionette	INFO	Listening on port 55465
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55465
+Read port: 55466
+WebDriver BiDi listening on ws://127.0.0.1:55423
+WebDriver BiDi listening on ws://127.0.0.1:55421
+1683387297508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1683387297512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileGJ8E4S/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileKqdFCm/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55423/devtools/browser/c4360cca-eea8-4e13-b110-b3aa621edab5
+DevTools listening on ws://127.0.0.1:55421/devtools/browser/1adf4ea1-7f54-440d-8ffe-7433a7fa12ca
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683387318039	Marionette	INFO	Stopped listening on port 55466
+1683387318873	Marionette	INFO	Stopped listening on port 55465
+1683387544779	geckodriver	INFO	Listening on 127.0.0.1:57161
+1683387544779	geckodriver	INFO	Listening on 127.0.0.1:57157
+1683387545315	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileIe86jL"
+1683387545315	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileQgMnZd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683387546885	Marionette	INFO	Marionette enabled
+1683387546885	Marionette	INFO	Marionette enabled
+1683387547251	Marionette	INFO	Listening on port 57203
+1683387547272	Marionette	INFO	Listening on port 57204
+Read port: 57203
+Read port: 57204
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57158
+WebDriver BiDi listening on ws://127.0.0.1:57162
+1683387547424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1683387547424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileQgMnZd/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileIe86jL/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57158/devtools/browser/7989b3cc-15de-4eef-878c-66a84d320861
+DevTools listening on ws://127.0.0.1:57162/devtools/browser/63a1dcd3-cb69-4141-8841-0c3a77afbbc3
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683387707182	geckodriver	INFO	Listening on 127.0.0.1:58314
+1683387707182	geckodriver	INFO	Listening on 127.0.0.1:58311
+1683387707694	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofiledGg633"
+1683387707694	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileKwTpto"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683387709420	Marionette	INFO	Marionette enabled
+1683387709420	Marionette	INFO	Marionette enabled
+1683387710102	Marionette	INFO	Listening on port 58356
+1683387710124	Marionette	INFO	Listening on port 58357
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 58357
+Read port: 58356
+WebDriver BiDi listening on ws://127.0.0.1:58312
+WebDriver BiDi listening on ws://127.0.0.1:58315
+1683387710347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1683387710361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofiledGg633/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileKwTpto/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58312/devtools/browser/60d879b1-7497-4196-8b2e-9b6f7e6f0fc9
+DevTools listening on ws://127.0.0.1:58315/devtools/browser/c9e9aa71-cfd0-41df-b1ae-73f677216e66
+JavaScript warning: https://www.browserstack.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=7c3254765bf78af1 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+1683387724029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683387726775	Marionette	INFO	Stopped listening on port 58356
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683387729958	Marionette	INFO	Stopped listening on port 58357
+1683636747912	geckodriver	INFO	Listening on 127.0.0.1:64245
+1683636748585	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileerHBrV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683636750133	Marionette	INFO	Marionette enabled
+1683636750514	Marionette	INFO	Listening on port 64253
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64253
+WebDriver BiDi listening on ws://127.0.0.1:64246
+1683636750733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileerHBrV/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64246/devtools/browser/d8b8a9f8-c9a8-4984-9e7e-36e74d13ea72
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683636758880	Marionette	INFO	Stopped listening on port 64253
+1683636759422	geckodriver	INFO	Listening on 127.0.0.1:64370
+1683636760013	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileBJOajs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683636760768	Marionette	INFO	Marionette enabled
+1683636761041	Marionette	INFO	Listening on port 64378
+Read port: 64378
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64371
+1683636761399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileBJOajs/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64371/devtools/browser/6657752e-c5b1-45d4-85b9-a2c12d6930a4
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683636769324	Marionette	INFO	Stopped listening on port 64378
+1683637117874	geckodriver	INFO	Listening on 127.0.0.1:64982
+1683637118389	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilehAP4c0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683637120428	Marionette	INFO	Marionette enabled
+1683637120707	Marionette	INFO	Listening on port 64990
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64990
+WebDriver BiDi listening on ws://127.0.0.1:64983
+1683637120950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilehAP4c0/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64983/devtools/browser/499a512e-dcd1-4305-9501-c249c32a2e1e
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683637129522	Marionette	INFO	Stopped listening on port 64990
+1683637130228	geckodriver	INFO	Listening on 127.0.0.1:65095
+1683637130812	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile9QbK2Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683637131542	Marionette	INFO	Marionette enabled
+1683637131842	Marionette	INFO	Listening on port 65103
+Read port: 65103
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:65096
+1683637132208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile9QbK2Z/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:65096/devtools/browser/6a343004-82a7-4688-a1ef-0e08b25598d8
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683637139338	Marionette	INFO	Stopped listening on port 65103
+1683638131498	geckodriver	INFO	Listening on 127.0.0.1:59114
+1683638131498	geckodriver	INFO	Listening on 127.0.0.1:59117
+1683638132017	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile46KmOu"
+1683638132017	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileRTqh2j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683638134115	Marionette	INFO	Marionette enabled
+1683638134115	Marionette	INFO	Marionette enabled
+1683638134558	Marionette	INFO	Listening on port 59151
+1683638134580	Marionette	INFO	Listening on port 59152
+Read port: 59152
+Read port: 59151
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59115
+WebDriver BiDi listening on ws://127.0.0.1:59118
+1683638134985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1683638135002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofile46KmOu/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileRTqh2j/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59115/devtools/browser/00476af1-4467-40bf-a9c6-554996a3da28
+DevTools listening on ws://127.0.0.1:59118/devtools/browser/4e348ee3-339f-4757-a7e6-94a65666cf67
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1683638155804	Marionette	INFO	Stopped listening on port 59152
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683638159995	Marionette	INFO	Stopped listening on port 59151
+1683638214865	geckodriver	INFO	Listening on 127.0.0.1:59530
+1683638214865	geckodriver	INFO	Listening on 127.0.0.1:59528
+1683638215364	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilesy2ol6"
+1683638215364	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileqw64Y0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683638216941	Marionette	INFO	Marionette enabled
+1683638216941	Marionette	INFO	Marionette enabled
+1683638217386	Marionette	INFO	Listening on port 59571
+1683638217412	Marionette	INFO	Listening on port 59572
+Read port: 59572
+Read port: 59571
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59529
+WebDriver BiDi listening on ws://127.0.0.1:59534
+1683638217586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1683638217591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofilesy2ol6/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/jyk5ybxn3ylbcbw1gfkmpk_r0000gp/T/rust_mozprofileqw64Y0/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59534/devtools/browser/d43067e8-b1a8-4e62-8941-e1b83af5c0b3
+DevTools listening on ws://127.0.0.1:59529/devtools/browser/af70ef9b-fd12-4c13-975b-b2dc64d26ce2
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.browserstack.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683638238950	Marionette	INFO	Stopped listening on port 59572
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683638240157	Marionette	INFO	Stopped listening on port 59571

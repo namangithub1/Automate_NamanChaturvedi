@@ -1,0 +1,30 @@
+# Global configuration
+maxSessions = 10
+timeout = 60000
+hubHost = "localhost"
+hubPort = 4444
+debug = false
+
+# Chrome configuration
+[[capabilities]]
+browserName = "chrome"
+maxInstances = 2
+seleniumProtocol = "WebDriver"
+
+  [capabilities.chromeOptions]
+  args = ["--start-maximized"]
+
+# Firefox configuration
+[[capabilities]]
+browserName = "firefox"
+maxInstances = 2
+seleniumProtocol = "WebDriver"
+
+  [capabilities."moz:firefoxOptions"]
+  args = ["--start-maximized"]
+
+# Safari configuration
+[[capabilities]]
+browserName = "safari"
+maxInstances = 2
+seleniumProtocol = "WebDriver"
